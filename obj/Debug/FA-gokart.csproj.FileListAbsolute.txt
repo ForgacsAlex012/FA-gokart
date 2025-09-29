@@ -1,0 +1,8 @@
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\bin\Debug\FA-gokart.exe.config
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\bin\Debug\FA-gokart.exe
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\bin\Debug\FA-gokart.pdb
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\obj\Debug\FA-gokart.csproj.AssemblyReference.cache
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\obj\Debug\FA-gokart.csproj.CoreCompileInputs.cache
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\obj\Debug\FA-gokart.exe
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\obj\Debug\FA-gokart.pdb
+C:\Users\ForgacsAlex\Desktop\ikt 2025\FA-gokart\obj\Debug\FA-gokart.exe.config
